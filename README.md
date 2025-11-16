@@ -70,22 +70,23 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+![WhatsApp Image 2025-11-16 at 10 33 39_19ead266](https://github.com/user-attachments/assets/27031b2a-c1e8-42d4-8106-2a6fb63afd17)
+
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="526" height="733" alt="Screenshot 2025-08-25 132058" src="https://github.com/user-attachments/assets/85891bba-3b15-46e7-9d3c-4707c8c98b32" />
+<img width="772" height="724" alt="Screenshot 2025-08-25 132453" src="https://github.com/user-attachments/assets/8de87318-419b-48ea-8ebe-18b48abad2c6" />
+<img width="767" height="735" alt="Screenshot 2025-08-25 132649" src="https://github.com/user-attachments/assets/58a33e64-e6ae-4701-afe1-392f81f0bda2" />
+<img width="777" height="732" alt="Screenshot 2025-08-25 132828" src="https://github.com/user-attachments/assets/452238e0-b847-499f-95ca-a42c39427fc1" />
+<img width="697" height="547" alt="Screenshot 2025-09-08 100852" src="https://github.com/user-attachments/assets/a534f493-7549-41ab-82e0-49b0a116088f" />
+
+
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Thus , the simulation of optical communication system was done.
